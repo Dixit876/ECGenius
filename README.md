@@ -1,6 +1,6 @@
-🫀 CardioRisk AI: Heart Disease Prediction System
+🫀 ECGenius: Heart Disease Prediction System
 📌 Overview
-CardioRisk AI is a Machine Learning-based project that predicts the likelihood of heart disease using patient health data. The goal is to assist in early detection and support healthcare decision-making.
+ECGenius is a Machine Learning-based project that predicts the likelihood of heart disease using patient health data. The goal is to assist in early detection and support healthcare decision-making.
 
 🎯 Objective
 Build a classification model to predict heart disease
